@@ -7,5 +7,5 @@ func main() {
 }
 
 func bar() {
-	fmt.Println("vim-go")
+	fmt.Println("bar")
 }
