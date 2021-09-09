@@ -15,3 +15,11 @@ b section text is correct
 more text in section b
 
 section b text
+
+## c section
+
+written in foo
+
+## d section added
+
+d text here
