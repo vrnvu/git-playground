@@ -14,6 +14,6 @@ func Foo() string {
 
 // Ayy returns lmao
 func Ayy() string {
-	r := "kek"
+	r := "lmao"
 	return r
 }
