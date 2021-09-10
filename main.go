@@ -1,16 +1,19 @@
 package main
 
-import "fmt"
-
-func main() {
-	bar()
-	foo()
+// Bar returns bar
+func Bar() string {
+	r := "bar"
+	return r
 }
 
-func bar() {
-	fmt.Println("bar")
+// Foo returns foo
+func Foo() string {
+	r := "foo"
+	return r
 }
 
-func foo() {
-	fmt.Println("foo")
+// Ayy returns lmao
+func Ayy() string {
+	r := "kek"
+	return r
 }
