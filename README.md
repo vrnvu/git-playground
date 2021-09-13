@@ -125,3 +125,7 @@ before submitting a pull request run local tests and checks
 you need to know commiting, amending, rebasing, bisecting, cherry picking and reverting 
 
 you will be happy to know how to use worktrees (bare git) if it makes sense for your workflow honestly i see people constantly messing things up because they do not know how git works lol
+
+## extra
+
+if you want to learn more check [k8s contributors guide](https://github.com/kubernetes/community/tree/master/contributors/guide)
