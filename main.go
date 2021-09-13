@@ -23,3 +23,8 @@ func Kek() string {
 	r := "kek"
 	return r
 }
+
+// Mom returns mom
+func Mom() string {
+	return "mom"
+}
