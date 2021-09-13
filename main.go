@@ -17,3 +17,9 @@ func Ayy() string {
 	r := "lmao"
 	return r
 }
+
+// Kek returns kek, more comments
+func Kek() string {
+	r := "kek"
+	return r
+}

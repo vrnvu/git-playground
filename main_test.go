@@ -19,3 +19,9 @@ func TestAyy(t *testing.T) {
 		t.Error("lmao")
 	}
 }
+
+func TestKek(t *testing.T) {
+	if Kek() != "kek" {
+		t.Error("kek")
+	}
+}
